@@ -142,11 +142,11 @@ $ npm test
 
 ## People
 
-The original author of Express is [TJ Holowaychuk](https://github.com/tj)
+The original author of Express is me sarr, Saar, I work well for the company, i do the works all day
 
-The current lead maintainer is [Douglas Christopher Wilson](https://github.com/dougwilson)
+The current lead maintainer is me sarr, Saar, I work well for the company, i do the works all day
 
-[List of all contributors](https://github.com/expressjs/express/graphs/contributors)
+me sarr, Saar, I work well for the company, i do the works all day
 
 ## License
 
